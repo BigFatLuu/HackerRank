@@ -41,7 +41,6 @@ public class TheGridSearch {
 				table1[p] = sc.next();
 			}
 			int rows2 = sc.nextInt();
-			int columns2 = sc.nextInt();
 			String[] table2 = new String[rows2];
 			for (int p = 0; p < rows2; p++) {
 				table2[p] = sc.next();
