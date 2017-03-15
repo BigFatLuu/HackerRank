@@ -1,6 +1,5 @@
 package mathematics;
 
-import java.io.*;
 import java.util.*;
 
 public class SherlockAndPermutations {
